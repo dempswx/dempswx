@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Billy
-- 🌱 I’m currently pursuing my Master's Degree in COmputer Science at Merrimack College
+# 👋 Hi, I’m Billy
+- 🌱 I’m currently pursuing my Master's Degree in Computer Science at Merrimack College
 - 📫 Lets connect: https://www.linkedin.com/in/dempseyw/ 
 
 <!---
